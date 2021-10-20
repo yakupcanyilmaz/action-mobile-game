@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d912ba0781849aa4885dabc3e25c623a, type: 3}
+  m_Name: BowBlue
+  m_EditorClassIdentifier: 
+  damage: 15
+  weapon: {fileID: 0}
+  projectile: {fileID: 7735393502064185679, guid: 344c7d8073ab5b94db5b2ed0411906d2,
+    type: 3}

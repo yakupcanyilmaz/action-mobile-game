@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eddfbe0b84c41644b1f3104a7312a79, type: 3}
+  m_Name: PlayerTransitionTable
+  m_EditorClassIdentifier: 
+  TransitionItems:
+  - From: {fileID: 11400000, guid: 7d0a55c39f022e0459f3b68b64ea92c3, type: 2}
+    To: {fileID: 11400000, guid: 919ae7b10ad109a42872a1e5c50e0360, type: 2}
+    Condition: {fileID: 11400000, guid: 2a375420db02e25488c63e5d6da07b56, type: 2}
+  - From: {fileID: 11400000, guid: 7d0a55c39f022e0459f3b68b64ea92c3, type: 2}
+    To: {fileID: 11400000, guid: 9b79a91f1a374654990a3b4e0a570069, type: 2}
+    Condition: {fileID: 11400000, guid: c4141877053051a4693d2735a025b6ab, type: 2}
+  - From: {fileID: 11400000, guid: 919ae7b10ad109a42872a1e5c50e0360, type: 2}
+    To: {fileID: 11400000, guid: 7d0a55c39f022e0459f3b68b64ea92c3, type: 2}
+    Condition: {fileID: 11400000, guid: 42379e5f9bafa4a45bb1cbc4bd28e7f5, type: 2}
+  - From: {fileID: 11400000, guid: 9b79a91f1a374654990a3b4e0a570069, type: 2}
+    To: {fileID: 11400000, guid: 7d0a55c39f022e0459f3b68b64ea92c3, type: 2}
+    Condition: {fileID: 11400000, guid: 42379e5f9bafa4a45bb1cbc4bd28e7f5, type: 2}
+  - From: {fileID: 11400000, guid: 919ae7b10ad109a42872a1e5c50e0360, type: 2}
+    To: {fileID: 11400000, guid: 9b79a91f1a374654990a3b4e0a570069, type: 2}
+    Condition: {fileID: 11400000, guid: c4141877053051a4693d2735a025b6ab, type: 2}
+  - From: {fileID: 11400000, guid: 9b79a91f1a374654990a3b4e0a570069, type: 2}
+    To: {fileID: 11400000, guid: 919ae7b10ad109a42872a1e5c50e0360, type: 2}
+    Condition: {fileID: 11400000, guid: 2a375420db02e25488c63e5d6da07b56, type: 2}
+  - From: {fileID: 11400000, guid: c7b053b0333170545879c4c8c10ee0a5, type: 2}
+    To: {fileID: 11400000, guid: 547b80acf6c0fc54981affcc24eb33dc, type: 2}
+    Condition: {fileID: 11400000, guid: f067db167f9ae8e43ad3fc233aa72681, type: 2}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eac707e95d9921d4396ccb1caf14630f
+  m_SerializeEntries:
+  - m_GUID: b23e28d4c03034e4da7cf4be76f80144
+    m_Address: Assets/Prefabs/Levels/WorldSegment00.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8377175758aa1a144a1bb862cf7b2de4
+    m_Address: Assets/Prefabs/Levels/WorldSegment01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba429bfb6fe25664e8dea6e542a2e147
+    m_Address: Assets/Prefabs/Levels/WorldSegment02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a008dc7cb6565714f861db761cf30018
+    m_Address: Assets/Prefabs/Levels/WorldSegment03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4570d88134d1b634daec468d62ade721
+    m_Address: Assets/Prefabs/Levels/WorldSegment04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 00718f3e484538b4cbac4bd6d8fee2d1
+    m_Address: Assets/Prefabs/Levels/WorldSegment05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3b6e08fe5ca3c8742967ccea3e3432fa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a9ca23991817bc54bbf03cdb77f82ca4, type: 2}
+    - {fileID: 11400000, guid: 652f48928e37085498c2a77a92b7006f, type: 2}
